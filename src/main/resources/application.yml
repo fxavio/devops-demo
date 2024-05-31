@@ -2,4 +2,4 @@ spring:
   application:
     name: devops-demo
 server:
-  port: ${PORT}
+  port: 8083
