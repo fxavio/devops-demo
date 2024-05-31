@@ -11,7 +11,7 @@ public class DevopsDemoApplication {
 
     @GetMapping
     public String message(){
-        return "welcome to devops demo application";
+        return "welcome to devops demo";
     }
     public static void main(String[] args) {
         SpringApplication.run(DevopsDemoApplication.class, args);
